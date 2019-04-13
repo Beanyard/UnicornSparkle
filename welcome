@@ -1,0 +1,25 @@
+{
+  "embed": {
+    "title": ":Unicorns17: ✧･ﾟ:Welcome to Unicorn Sparkle:･ﾟ✧ :Unicorns18:",
+    "description": "[💸Donate💸](https://paypal.me/raestar) [🎬Youtube🎬](https://www.youtube.com/channel/UCrW7Q3Ov9P8qBDNMwpuFUBw)",
+    "color": 11964415,
+    "author": {
+      "name": "Unicorn Princess",
+      "url": "https://paypal.me/raegen",
+      "icon_url": "http://i67.tinypic.com/28m2vzk.png"
+    },
+    "fields": [
+      {"name": " :sparkles: Close your eyes and prepare for your glitter bath! :unicorn~1: ",
+       "value": "  \nNow that you are fabulous, you should fit right in~ \n \n:Unicorns18: Unicorn Sparkle is a community focused on bringing gamers together and, where possible, providing resources to do just that! Looking for a group to play with? Check out the individual game sections to meet your new best teammates. \n\n:Unicorns18: Currently, we provide a server for ARK: Survival Evolved Steam edition. We have grand plans to expand so look out for us to expand in the future!"
+      },
+      {
+        "name": ":Unicorns2: Discord Rules :Unicorns8: ",
+       "value": "Can't have a party that's fun for everyone without a few rules~ \n\n★ Be kind and respectful to others\n★ Please keep relevant game discussion to their respective channels\n★ No NSFW names or profile images\n★ Do not ask for a role\n\nPunishment for breaking the rules will be handled on a case-by-case basis. Punishments will range from timed mutes to banishment from the server."
+      },
+      {
+       "name": " :Unicorns1: Assign Your Role :Unicorns1: ",
+       "value": "Discord channels will be hidden until you assign your role. Please select the games you play below to gain access to their respective sections."
+      }
+    ]
+  }
+}
